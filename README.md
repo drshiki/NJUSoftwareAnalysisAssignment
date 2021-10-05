@@ -1,6 +1,6 @@
-Static Analysis taught in Nanjing University by Yue Li and Tan Tian
+Static Analysis taught in Nanjing University by Yue Li and Tian Tan
 
-Videos: [https:https://space.bilibili.com/2919428//space.bilibili.com/2919428]()
+Videos: [https://space.bilibili.com/2919428](https://space.bilibili.com/2919428)
 
 Assignment List:
 
