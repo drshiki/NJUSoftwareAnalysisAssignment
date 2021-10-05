@@ -48,7 +48,6 @@ public class ConstantPropagation extends ForwardFlowAnalysis<Unit, VariableEleme
     @Override
     protected void merge(VariableElementFlowSet in1, VariableElementFlowSet in2, VariableElementFlowSet out) {
         in1.meet(in2, out);
-        in1.union(in1);
     }
 
     @Override
